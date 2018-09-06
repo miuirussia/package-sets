@@ -1488,6 +1488,20 @@
     "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
     "version": "v6.0.0"
   },
+  "react-native": {
+    "dependencies":[
+      "prelude",
+      "react",
+      "maybe",
+      "newtype",
+      "integers",
+      "foreign-object",
+      "nullable",
+      "effect"
+    ],
+    "repo": "https://github.com/doolse/purescript-reactnative.git",
+    "version": "v6.0.3"
+  },
   "read": {
     "dependencies": [
       "maybe",
