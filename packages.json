@@ -1489,7 +1489,7 @@
     "version": "v6.0.0"
   },
   "react-native": {
-    "dependencies":[
+    "dependencies": [
       "prelude",
       "react",
       "maybe",
@@ -1501,6 +1501,18 @@
     ],
     "repo": "https://github.com/doolse/purescript-reactnative.git",
     "version": "v6.0.3"
+  },
+  "react-native-navigation": {
+    "dependencies": [
+      "prelude",
+      "react-native",
+      "react",
+      "proxy",
+      "typelevel-prelude",
+      "foreign-object"
+    ],
+    "repo": "https://github.com/doolse/purescript-reactnative-navigation.git",
+    "version": "v1.0.0"
   },
   "read": {
     "dependencies": [
