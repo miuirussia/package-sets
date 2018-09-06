@@ -363,6 +363,15 @@
     "repo": "https://github.com/purescript/purescript-distributive.git",
     "version": "v4.0.0"
   },
+  "dispatcher-react": {
+    "dependencies": [
+      "aff",
+      "react",
+      "refs"
+    ],
+    "repo": "https://github.com/doolse/purescript-dispatcher-react.git",
+    "version": "v4.0.0"
+  },
   "dom-indexed": {
     "dependencies": [
       "media-types",
